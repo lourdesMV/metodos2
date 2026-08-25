@@ -1,0 +1,1 @@
+# Reconstrucci-n-y-regularizaci-n-en-im-genes-tomogr-ficas
