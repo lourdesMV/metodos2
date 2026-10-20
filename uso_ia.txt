@@ -1,0 +1,27 @@
+DECLARACIÓN DE USO DE IA GENERATIVA
+
+Herramientas utilizadas: ChatGPT - Claude
+
+Propósito general
+La herramienta se utilizó como apoyo para comprender conceptos, revisar razonamientos y redacciones, detectar errores, organizar el entorno de ejecución y comprobar que los notebooks pudieran ejecutarse de principio a fin. Las sugerencias fueron revisadas y contrastadas con los resultados numéricos, las visualizaciones y el enunciado del proyecto.
+
+Detalle del uso
+
+- Ejercicios 1, 2 y 3: se utilizó después de contar con una resolución inicial para repasar la interpretación del fantoma, la vectorización de la imagen, las máscaras de rayos y la matriz de proyección. 
+
+- Ejercicio 4: se utilizó para revisar la explicación del rango, el espacio nulo y la construcción de una imagen alternativa que produce las mismas mediciones.
+
+- Ejercicios 5 y 6: se utilizó para revisar la interpretación de mínimos cuadrados, el residuo, el error relativo y el efecto del ruido.
+
+- Ejercicio 7: se utilizó después de contar con una resolución inicial para repasar la interpretación geométrica de la proyección ortogonal y comprobar la claridad de la explicación.
+
+- Ejercicio 8: se utilizó para revisar la interpretación del gradiente descendiente, el intervalo estable para la tasa de aprendizaje y el comportamiento del método de Newton.
+
+- Ejercicio 9: se utilizó para revisar la implementación y la explicación de la regularización cuadrática, los criterios de parada, la selección de la tasa de aprendizaje y la interpretación de los resultados para distintos valores de ruido y regularización.
+
+- Ejercicio 10: se utilizó para revisar la organización de las explicaciones, la construcción del sinograma y de la matriz de diferencias dispersa, y la justificación de la elección final del parámetro de regularización a partir del nivel esperado del ruido.
+
+- Ejercicio 11: se utilizó para revisar la claridad y coherencia de la reflexión final.
+
+- Aspectos técnicos generales: se utilizó para crear y configurar el entorno virtual, seleccionar el kernel correcto, resolver dependencias, preparar el archivo .gitignore, revisar la estructura de entrega y ejecutar una verificación final de todos los notebooks.
+
